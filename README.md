@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/galio-org/galio-starter-kit)
+
 # [galio-starter-kit](https://www.galio.io) ![GitHub package.json version](https://img.shields.io/github/package-json/v/galio-org/galio-starter-kit.svg) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Galio,%20a%20free%20and%20beautiful%20UI%20framework%20https%3A//galio.io/%20%23reactnative%20%23react%20%23design%20%23developers%20%23freebie%20via%20%40galioframework)
 
 [![GitHub issues](https://img.shields.io/github/issues/galio-org/galio-starter-kit.svg?style=popout)](https://github.com/galio-org/galio-starter-kit/issues)
